@@ -39,8 +39,8 @@ void consoleWindow() {
   arduboy.print(F("Roshambo.exe"));
   arduboy.drawRect(0,0,128,64,WHITE);
   arduboy.drawLine(0,10,128,10,WHITE);
-  arduboy.drawLine(106,1,106,9,WHITE);
-  arduboy.drawLine(108,7,115,7,WHITE);
+  arduboy.drawLine(107,1,107,9,WHITE);
+  arduboy.drawLine(109,7,115,7,WHITE);
   arduboy.drawLine(117,1,117,9,WHITE);
   arduboy.drawLine(118,1,126,9,WHITE);
   arduboy.drawLine(118,9,126,1,WHITE);
